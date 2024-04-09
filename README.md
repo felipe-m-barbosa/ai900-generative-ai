@@ -13,3 +13,20 @@ This repository is dedicated to address the previous question by exploring the c
 
 > Input: Create an image of life.
 
+<img src="outputs/life.jpeg" width=500 height=500>
+
+### Missing someone
+
+> Input: Create an imagem that represents the feeling o missing someone.
+
+<img src="outputs/saudade.jpeg" width=500 height=500>
+
+
+### Love
+
+> Input: Create an image that represents the feeling of love.
+
+<img src="outputs/love.jpeg" width=500 height=500>
+
+
+Of course, there is no such a thing as a correct answer to those requests. I would probably represent create different images to represent these feelings. Nonetheless, despite certain visual inconsistencies, we can't deny that the results are quite impressive and surely meaningful.
